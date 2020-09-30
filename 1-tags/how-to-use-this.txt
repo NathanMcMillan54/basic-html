@@ -6,3 +6,7 @@ text_tags.html
 
     html > body
         The p tag is a paragraph tag for writing small text which will also be talked about in the other file.
+
+
+text_sizes.html
+    This should be pretty self explanatory if you look through the file.
