@@ -10,3 +10,9 @@ files.html:
         The script tag is for linking JS. The src="your../file../name/" is the link to you JS that will interact with
         the console.
 
+
+websites.html
+    In the body tag there is a tag called a that is used to link a file or website.
+
+    html > body > a
+        The a tag has an argument which is href which links to either a file or website.
